@@ -1,2 +1,2 @@
 # Minor2
-Sensor Fault Prediction
+Sensor Fault Detection
